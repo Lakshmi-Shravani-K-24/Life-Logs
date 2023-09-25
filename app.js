@@ -54,7 +54,7 @@ app.listen(3000, function (res) {
 });
 
 const homeStartingContent =
-  "Welcome to your dairy.Site where you can share all your memories";
-const aboutContent = "This site helps you save all your memories.";
+  "Welcome to your diary.Site where you can share all your memories.Please type /compose in url to add memories";
+const aboutContent = "This site helps you save all your memories.this is like your diary where you can write your daily experiences";
 const contactContent =
-  "This is the contact page.For any queries contact to sahiparyani313@gmail.com";
+  "This is the contact page.For any queries contact to lakshmishravani245@gmail.com";
